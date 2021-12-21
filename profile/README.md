@@ -2,7 +2,7 @@
 
 **We build enterprises** :office: - Application engineering, strategy, managed cloud services, machine learning, big data, analysis -- easy peasy.
 
-![Cloud-Hosting-Software-Engineering-Polyrific](Cloud-Hosting-Software-Engineering-Polyrific.png)
+![Cloud-Hosting-Software-Engineering-Polyrific](https://raw.githubusercontent.com/Polyrific-Inc/.github/main/profile/Cloud-Hosting-Software-Engineering-Polyrific.png)
 
 ## :man_technologist: WHO WE ARE 
 
